@@ -19,10 +19,10 @@ For a  K -class classification problem, one popular loss function for training (
 
 Note that one should look at  l  as a function of the parameters of the network, that is,  W(1),b(1),W(2)  and  b(2) . For ease of notation, let us define the one-hot (i.e., 1-of- K ) encoding of a class  y  as:
 
-   ![](images/onehotencoder_1.png)
+![](images/onehotencoder_1.png)
 
 so that
 
-   ![](images/onehotencoder_2.png)
+![](images/onehotencoder_2.png)
 
 We can then perform error-backpropagation, a way to compute partial derivatives (or gradients) w.r.t the parameters of a neural network, and use gradient-based optimization to learn the parameters.
