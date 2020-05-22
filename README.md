@@ -26,3 +26,55 @@ so that
 ![](images/onehotencoder_2.png)
 
 We can then perform error-backpropagation, a way to compute partial derivatives (or gradients) w.r.t the parameters of a neural network, and use gradient-based optimization to learn the parameters.
+
+# Model Performance
+
+    *** At epoch 1 ***
+    Training loss at epoch 1 is 479.4455301319439
+    Training accuracy at epoch 1 is 0.8496
+    Validation accuracy at epoch 1 is 0.874
+    
+    *** At epoch 2 ***
+    Training loss at epoch 2 is 358.9095593325671
+    Training accuracy at epoch 2 is 0.8932
+    Validation accuracy at epoch 2 is 0.909
+    
+    *** At epoch 3
+    Training loss at epoch 3 is 306.4451982897476
+    Training accuracy at epoch 3 is 0.9106
+    Validation accuracy at epoch 3 is 0.915
+    
+    *** At epoch 4
+    Training loss at epoch 4 is 264.1638585148052
+    Training accuracy at epoch 4 is 0.9256
+    Validation accuracy at epoch 4 is 0.919
+    
+    *** At epoch 5
+    Training loss at epoch 5 is 250.87838492388042
+    Training accuracy at epoch 5 is 0.9248
+    Validation accuracy at epoch 5 is 0.918
+    
+    *** At epoch 6
+    Training loss at epoch 6 is 228.51312766305165
+    Training accuracy at epoch 6 is 0.9342
+    Validation accuracy at epoch 6 is 0.92
+    
+    *** At epoch 7
+    Training loss at epoch 7 is 206.9570664226602
+    Training accuracy at epoch 7 is 0.9444
+    Validation accuracy at epoch 7 is 0.922
+    
+    *** At epoch 8
+    Training loss at epoch 8 is 194.84799192940756
+    Training accuracy at epoch 8 is 0.9446
+    Validation accuracy at epoch 8 is 0.927
+    
+    *** At epoch 9 ***
+    Training loss at epoch 9 is 177.9126169745046
+    Training accuracy at epoch 9 is 0.9556
+    Validation accuracy at epoch 9 is 0.927
+    
+    *** At epoch 10 ***
+    Training loss at epoch 10 is 170.2862888707467
+    Training accuracy at epoch 10 is 0.954
+    Validation accuracy at epoch 10 is 0.934
