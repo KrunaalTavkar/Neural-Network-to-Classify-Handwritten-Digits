@@ -8,3 +8,8 @@ This particular implementation is based on the multi-layer perceptron (MLP, just
 
 ![](images/MLP_diagram.png)
 
+# MLP Definitions
+Let  (x∈ℝD,y∈{1,2,⋯,K})  be a labeled instance, such an MLP performs the following computations:
+
+![](images/MLP_definitions.png)
+
