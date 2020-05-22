@@ -39,32 +39,32 @@ We can then perform error-backpropagation, a way to compute partial derivatives 
     Training accuracy at epoch 2 is 0.8932
     Validation accuracy at epoch 2 is 0.909
     
-    *** At epoch 3
+    *** At epoch 3 ***
     Training loss at epoch 3 is 306.4451982897476
     Training accuracy at epoch 3 is 0.9106
     Validation accuracy at epoch 3 is 0.915
     
-    *** At epoch 4
+    *** At epoch 4 ***
     Training loss at epoch 4 is 264.1638585148052
     Training accuracy at epoch 4 is 0.9256
     Validation accuracy at epoch 4 is 0.919
     
-    *** At epoch 5
+    *** At epoch 5 ***
     Training loss at epoch 5 is 250.87838492388042
     Training accuracy at epoch 5 is 0.9248
     Validation accuracy at epoch 5 is 0.918
     
-    *** At epoch 6
+    *** At epoch 6 ***
     Training loss at epoch 6 is 228.51312766305165
     Training accuracy at epoch 6 is 0.9342
     Validation accuracy at epoch 6 is 0.92
     
-    *** At epoch 7
+    *** At epoch 7 ***
     Training loss at epoch 7 is 206.9570664226602
     Training accuracy at epoch 7 is 0.9444
     Validation accuracy at epoch 7 is 0.922
     
-    *** At epoch 8
+    *** At epoch 8 ***
     Training loss at epoch 8 is 194.84799192940756
     Training accuracy at epoch 8 is 0.9446
     Validation accuracy at epoch 8 is 0.927
